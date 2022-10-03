@@ -1,0 +1,16 @@
+/* contact 섹션 */
+.contact{
+    padding: 80px 20px 20px 20px;
+    width: 100%;
+    height: 100%;
+}
+.contact_content{
+    width: 550px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.icons_content{
+    margin-top: 20px;
+}
